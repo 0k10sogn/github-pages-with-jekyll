@@ -1,5 +1,5 @@
 ---
-title: Another Pages
+title: "Another Pages"
 date: 2021-02-16
 ---
 
